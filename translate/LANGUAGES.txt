@@ -1,0 +1,12 @@
+Language ISO-639 code Text
+---------------------------------
+afrikaans af Vertroue
+albanian sq Besim
+amharic am አደራ
+arabic ar يثق
+armenian hy Վստահություն
+azerbaijani az Güvən
+basque eu Konfiantza
+belarusian be Давер
+bengali bn ভরসা
+bosnian bs Poverenje
